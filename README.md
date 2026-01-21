@@ -1,4 +1,3 @@
-# financial-math-CAPM-projects
 # Optimal Portfolio Allocation using CAPM
 
 ## 1. Problem Description
